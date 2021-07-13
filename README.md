@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Imtiyaz-CHOUJAI) since November 25, 2017
+
+- 🔭 I’m currently working at [PRO](http://personalrecruitment.ma/)
+- 🌱 I’m currently learning more about PMP & React Native
+- 👯 I’m looking to collaborate on open source projects made by/for Laravel, Vuejs & React
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imtiyaz-choujai-586497143) or [Twitter](https://twitter.com/ChoujaiImtiyaz)
+
 <!--
 **Imtiyaz-CHOUJAI/Imtiyaz-CHOUJAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
